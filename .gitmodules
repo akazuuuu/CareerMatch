@@ -1,0 +1,3 @@
+[submodule "CareerMatch"]
+	path = CareerMatch
+	url = https://github.com/akazuuuu/CareerMatch.git
